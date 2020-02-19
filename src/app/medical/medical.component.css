@@ -1,0 +1,110 @@
+:host {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 100%;
+  overflow: scroll;
+  padding: 20px 20px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 300;
+  font-size: 4rem;
+}
+
+.img-1 {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/03_12_2019_Infusion_Suite.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 630px;
+}
+
+.img-2 {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/29_11_2019_Check_out_render_MM_PS_03.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 850px;
+}
+
+.img-3 {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/30_11_2019_Charting_Exam_Elevation_01.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 120px;
+}
+
+.img-4 {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/Receptionareafinalrenderwithaquarium.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 1323px;
+}
+
+.img-5 {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/SDCDKMM2020_2.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 900px;
+}
+
+.img-6 {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/SDCDKMM2020_3.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 900px;
+}
+
+.img-7 {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/Section_Journeyyy.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 100px;
+}
+
+.img-8 {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/stafflounge_02.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 790px;
+}

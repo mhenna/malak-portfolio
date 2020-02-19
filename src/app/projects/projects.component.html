@@ -1,0 +1,30 @@
+<h2 class="title">PROJECTS</h2>
+<p class="title-sub-heading">Proudest Comissions</p>
+<div class="wrapper">
+    <div class="wrapper-row" nz-row [nzGutter]="8">
+        <div class="project1" nz-col [nzSpan]="8">
+            <nz-card class="card1" nzHoverable [nzCover]="coverTemplate1" (click)="navigateToResidential()">
+                <nz-card-meta class="card1-meta" nzTitle="RESIDENTIAL" nzDescription="Warm and Cozy"></nz-card-meta>
+            </nz-card>
+            <ng-template #coverTemplate1>
+                <img class="card-image" alt="example" src="../../assets/Portfolio_Content_Malak/Residential/Le Mirage Competition/le_Mirage_Furniture(Recovery).rvt_2018-Dec-08_06-24-56PM-000_3D_View_13_jpg.png" />
+            </ng-template>
+        </div>
+        <div class="project1" nz-col [nzSpan]="8">
+            <nz-card class="card2" nzHoverable [nzCover]="coverTemplate2" (click)="navigateToMedical()">
+                <nz-card-meta class="card2-meta" nzTitle="MEDICAL" nzDescription="Transparency and Closeness"></nz-card-meta>
+            </nz-card>
+            <ng-template #coverTemplate2>
+                <img class="card-image" alt="example" src="../../assets/Portfolio_Content_Malak/Healthcare/29_11_2019_Check_out_render_MM_PS_03.jpg" />
+            </ng-template>
+        </div>
+        <div class="project1" nz-col [nzSpan]="8">
+            <nz-card class="card3" nzHoverable [nzCover]="coverTemplate3" (click)="navigateToRetail()">
+                <nz-card-meta class="card3-meta" nzTitle="RETAIL AND COMMERCIAL" nzDescription="Chic and Sophisticated"></nz-card-meta>
+            </nz-card>
+            <ng-template #coverTemplate3>
+                <img class="card-image" alt="example" src="../../assets/Portfolio_Content_Malak/Retail/Malaks.jpg" />
+            </ng-template>
+        </div>
+    </div>
+</div>

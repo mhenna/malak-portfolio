@@ -1,0 +1,40 @@
+:host {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 100%;
+  padding: 20px 20px;
+  margin-top: 3%;
+}
+
+.wrapper {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  height: 100%;
+  height: 100%;
+}
+
+.about-image {
+  background: url("../../assets/Portfolio_Content_Malak/Healthcare/03_12_2019_Infusion_Suite.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  height: 100%;
+  width: 50%;
+}
+
+.about-text {
+    width: 50%;
+    height: 100%;
+    padding: 50px 50px;
+    text-align: center;
+    background: #add8e68c;
+}
+
+.text-title {
+    font-weight: 300;
+    font-size: 2.4rem;
+}

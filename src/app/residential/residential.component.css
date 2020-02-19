@@ -1,0 +1,152 @@
+:host {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-height: 100%;
+  overflow: scroll;
+  padding: 20px 20px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 300;
+  font-size: 4rem;
+}
+
+.sub-title {
+  text-align: center;
+  font-weight: 300;
+  font-size: 3rem;
+}
+
+.img-1 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/LeMirageCompetition/2DPLANRENDERED.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 560px;
+}
+
+.img-2 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/LeMirageCompetition/le_Mirage_Furniture.rvt_2018-Dec-08_05-39-12PM-000_3D_View_2_jpg.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 850px;
+}
+
+.img-3 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/LeMirageCompetition/le_Mirage_Furniture.rvt_2018-Dec-08_06-24-56PM-000_3D_View_13_jpg.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 850px;
+}
+
+.img-4 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/LeMirageCompetition/le_Mirage_Furniture.rvt_2018-Dec-09_08-52-32PM-000_3D_View_7_jpg.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 1323px;
+}
+
+.img-5 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/LeMirageCompetition/le_Mirage_Furniture.rvt_2018-Dec-09_09-19-53PM-000_{3D}_png_alpha.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 220px;
+}
+
+.img-6 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/VillaProject/Bedroom_Rendering4_PS.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 580px;
+}
+
+.img-7 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/VillaProject/BubbleDiagrams_Page_1.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 1800px;
+}
+
+.img-8 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/VillaProject/BubbleDiagrams_Page_2.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 1800px;
+}
+
+.img-9 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/VillaProject/Furnitureplan_Page_1.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 1800px;
+}
+
+.img-10 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/VillaProject/Furnitureplan_Page_2.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 1800px;
+}
+
+.img-11 {
+  background: url("../../assets/Portfolio_Content_Malak/Residential/VillaProject/Office_Rendering_BEST_02_PS.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  flex: 1;
+  min-height: 790px;
+}
