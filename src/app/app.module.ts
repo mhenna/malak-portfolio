@@ -15,7 +15,8 @@ import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { ResidentialComponent } from './residential/residential.component';
 import { MedicalComponent } from './medical/medical.component';
-import { RetailComponent } from './retail/retail.component'
+import { RetailComponent } from './retail/retail.component';
+import { HospitalityComponent } from './hospitality/hospitality.component'
 
 registerLocaleData(en);
 
@@ -28,7 +29,8 @@ registerLocaleData(en);
     ProjectsComponent,
     ResidentialComponent,
     MedicalComponent,
-    RetailComponent
+    RetailComponent,
+    HospitalityComponent
   ],
   imports: [
     BrowserModule,

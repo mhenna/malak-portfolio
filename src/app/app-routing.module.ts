@@ -5,6 +5,7 @@ import { LandingComponent } from './landing/landing.component';
 import { ResidentialComponent } from './residential/residential.component';
 import { MedicalComponent } from './medical/medical.component';
 import { RetailComponent } from './retail/retail.component';
+import { HospitalityComponent } from './hospitality/hospitality.component';
 
 const routes: Routes = [
   {
@@ -26,6 +27,10 @@ const routes: Routes = [
   {
     path: 'retail',
     component: RetailComponent
+  },
+  {
+    path: 'hospitality',
+    component: HospitalityComponent
   }
 ];
 

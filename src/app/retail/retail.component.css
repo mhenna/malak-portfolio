@@ -8,17 +8,19 @@
 }
 
 .title {
+  margin-bottom: -20px;
   text-align: center;
   font-weight: 300;
   font-size: 4rem;
 }
 
 .img-1 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/3DView26.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  margin-top: 20px;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/3DView26.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;
@@ -26,11 +28,11 @@
 }
 
 .img-2 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/CollateralObjects_Page_2.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/CollateralObjects_Page_2.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;
@@ -38,11 +40,11 @@
 }
 
 .img-3 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/CollateralObjects_Page_3.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/CollateralObjects_Page_3.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;
@@ -50,11 +52,11 @@
 }
 
 .img-4 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/Dina_Rendering_2.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/Dina_Rendering_2.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;
@@ -62,11 +64,11 @@
 }
 
 .img-5 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/DinasSketch.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/DinasSketch.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;
@@ -74,11 +76,11 @@
 }
 
 .img-6 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/Elevation_1_Rendering.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/Elevation_1_Rendering.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;
@@ -86,11 +88,11 @@
 }
 
 .img-7 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/Malaks.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/Malaks.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;
@@ -98,11 +100,11 @@
 }
 
 .img-8 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/sofa.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/sofa.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;
@@ -110,11 +112,11 @@
 }
 
 .img-9 {
-  background: url("../../assets/Portfolio_Content_Malak/Retail/sofa_2.png");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url("../../assets/Portfolio_Content_Malak/Retail/sofa_2.png") no-repeat center;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   position: relative;
   display: flex;
   flex: 1;

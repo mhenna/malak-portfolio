@@ -9,16 +9,15 @@
     <div class="header-content-wrapper">
       <img class="logo" src="../assets/Portfolio_Content_Malak/logo01.png" height="100">
       <div>
-        <h3 class="name">Malak Mortada</h3>
-        <p class="name-sub-heading">Designing the Space You've Always Wanted</p>
+        <h3 class="name">ملك مرتضى</h3>
+        <p class="name-sub-heading">Creating Happiness Through Design</p>
       </div>
     </div>
     <ul class="menu" nz-menu nzMode="horizontal">
       <li class="menu-content" nz-menu-item [routerLink]="['/landing']" fragment="home">Home</li>
       <li class="menu-content" nz-menu-item [routerLink]="['/landing']" fragment="about">About me</li>
       <li class="menu-content" nz-menu-item [routerLink]="['/landing']" fragment="projects">Projects</li>
-      <li class="menu-content" nz-menu-item>CV</li>
-      <li class="menu-content" nz-menu-item>Contact me</li>
+      <li class="menu-content" nz-menu-item (click)="test()">CV</li>
     </ul>
   </nz-header>
   <nz-content class="content">

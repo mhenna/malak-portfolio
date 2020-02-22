@@ -24,4 +24,8 @@ export class ProjectsComponent implements OnInit {
   navigateToRetail() {
     this.router.navigate(['/retail'])
   }
+
+  navigateToHospitality() {
+    this.router.navigate(['/hospitality'])
+  }
 }
