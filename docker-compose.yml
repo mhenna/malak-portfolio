@@ -1,0 +1,6 @@
+version: '2'
+services:
+    malak-portfolio:
+        image: mhenna/malak-portfolio:latest
+        ports: 
+            - "4200:80"

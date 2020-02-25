@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule, ExtraOptions } from '@angular/router';
-import { HomeComponent } from './home/home.component';
 import { LandingComponent } from './landing/landing.component';
 import { ResidentialComponent } from './residential/residential.component';
 import { MedicalComponent } from './medical/medical.component';
@@ -10,10 +9,6 @@ import { HospitalityComponent } from './hospitality/hospitality.component';
 const routes: Routes = [
   {
     path: '',
-    component: HomeComponent
-  },
-  {
-    path: 'landing',
     component: LandingComponent
   },
   {
